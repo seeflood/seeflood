@@ -1,6 +1,6 @@
 <!-- ![image](https://user-images.githubusercontent.com/26001097/173385538-40f17a4a-3f2f-4da1-bfa0-593ac494abe4.png) -->
 <!-- <img src="https://user-images.githubusercontent.com/26001097/173385538-40f17a4a-3f2f-4da1-bfa0-593ac494abe4.png" height="300%" width="300%" /> -->
-![image](https://media3.giphy.com/media/ZN5okPb395T7G/giphy.gif)
+<img src="https://media3.giphy.com/media/ZN5okPb395T7G/giphy.gif" height="100%" width="100%"/>
 
 
 <!-- ### Hi there 👋 -->
